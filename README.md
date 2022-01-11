@@ -1,0 +1,2 @@
+# CadastrosDeProdutos
+Meu primeiro sistema de cadastros de produtos, com algumas bibliotecas novas para mim. O código em si nao está completo e provavelmente tem alguns erros já que é a primeira vez e eu nao estou muito familiarizado com as bibliotecas e processos mais avançados no python.
